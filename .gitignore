@@ -1,0 +1,26 @@
+#Ignore all tex and PDF
+*.pdf
+*.tex
+*.txt
+*.docx
+*.org
+#*
+auto/
+ltximg/
+log.*
+*.pdf
+*.webm
+VTK
+*~
+logs
+*/_minted-Assignment_1
+*.obj
+*.msh
+#Numbered folders
+[0-9]*
+[0-9]*.[0-9]*
+Processor*
+processor*
+!0
+!0.orig
+*polyMesh
